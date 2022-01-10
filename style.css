@@ -113,4 +113,7 @@ height: 3px ;
     grid-template-rows: repeat(3,20vw);
  
     }
+    .line{
+       display: none;
+    }
 }
