@@ -33,19 +33,7 @@ grid-template-columns: repeat(3,10vw);
 grid-template-rows: repeat(3,10vw);
 color: rgb(0, 23, 90);
 position: relative;
-}
-
-
-.box{
-    border: 2px solid rgb(104, 0, 0);
-    font-size: 6vw;
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.gameInfo{
-    padding: 0 30px;
+}0px;
     font-family:cursive;
 }
 .container :hover{
@@ -96,6 +84,80 @@ position: absolute;
 height: 3px ;
 
 }
+
+
+
+
+.box{
+    border: 2px solid rgb(104, 0, 0);
+    font-size: 6vw;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gameInfo{
+    padding: 0 3
+
+
+.box{
+    border: 2px solid rgb(104, 0, 0);
+    font-size: 6vw;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gameInfo{
+    padding: 0 3
+
+
+.box{
+    border: 2px solid rgb(104, 0, 0);
+    font-size: 6vw;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gameInfo{
+    padding: 0 3
+
+
+.box{
+    border: 2px solid rgb(104, 0, 0);
+    font-size: 6vw;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gameInfo{
+    padding: 0 3
+
+
+.box{
+    border: 2px solid rgb(104, 0, 0);
+    font-size: 6vw;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gameInfo{
+    padding: 0 3
+
+
+.box{
+    border: 2px solid rgb(104, 0, 0);
+    font-size: 6vw;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gameInfo{
+    padding: 0 3
 
 @media screen and (max-width:800px){
 .gameContainer{
