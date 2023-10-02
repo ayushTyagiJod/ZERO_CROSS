@@ -1,11 +1,4 @@
 
-// let music = new Audio("music.mp3");
-// let audioturn = new Audio("ting.mp3")
-//     ;
-// let gameOver = new Audio("gameover.mp3")
-
-//  I had commented those bcz meri mrzii
-
 let turn = "X";
 let isgameOver = false;
 // function to change the turn
@@ -38,9 +31,6 @@ const checkWin = () => {
         }
     })
 }
-
-// game logic
-
 let boxes = document.getElementsByClassName("box");
 Array.from(boxes).forEach(element => {
     let boxtext = element.querySelector('.boxText');
